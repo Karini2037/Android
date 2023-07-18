@@ -149,6 +149,12 @@ img {
     width: 100%;
 }
 
+.imagem-pq {
+    max-width: 350px;
+    display: block;
+    margin: auto;
+}
+
 .video-1 {
     background-color: var(--cor5);
     margin-bottom: 20px;
